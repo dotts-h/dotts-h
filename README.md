@@ -55,7 +55,7 @@ https://github-readme-stats.dotts-h.vercel.app/
 
 <details>
     <summary>:zap: Top Languages</summary>
-        <img align="left" alt="Top Langs" src="https://github-readme.stats.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact">
+        <img align="left" alt="Top Langs" src="https://github-readme-stats.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact">
 </details>
 
 <details>
