@@ -55,12 +55,12 @@
 
 <details>
     <summary>:zap: Top Languages</summary>
-    <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
+    <img align="left" alt="Top Languages" src="https://github-readme-stats-git-master.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
 </details>
 
 <details>
     <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="Horia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true" />
+    <img align="left" alt="Horia's GitHub Stats" src="https://github-readme-stats-git-master.dotts-h.vercel.app/api?username=dotts-h&count_private=true&show_icons=true" />
 </details>
 
 
