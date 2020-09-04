@@ -58,7 +58,7 @@
 
 <details>
     <summary>:zap: GitHub Stats</summary>
-[![Horia's github stats](https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    <img alig="left" alt="Horia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
 </details>
 
 
