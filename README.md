@@ -12,10 +12,12 @@
 
 ### Check me out:
 
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/goodreads.svg" />][goodreads]
 
 <br/>
 
@@ -30,4 +32,5 @@
 [twitter]: (https://twitter.com/horia_c_nuta)
 [facebook]: (https://www.facebook.com/horia.c.nuta/)
 [fiverr]: (https://www.fiverr.com/horia_c_nuta?up_rollout=true)
+[goodreads]: (https://www.goodreads.com/user/show/63355295-horia-nu)
 [twitter follow]: https://twitter.com/intent/follow?ref_src=twsrc%5Etfw&region=follow_link&screen_name=horia_c_nuta&tw_p=followbutton
