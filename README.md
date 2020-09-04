@@ -19,6 +19,8 @@
 [<img align="left" alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/fiverr.svg" />][fiverr]
 [<img align="left" alt="goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/goodreads.svg" />][goodreads]
 
+<br />
+
 ---
 
 [![Horia's github stats](https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
