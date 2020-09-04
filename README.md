@@ -1,6 +1,8 @@
 # Hey, I am Horia C. Nuţă
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/horia_c_nuta?color=1DA1F2&style=for-the-badge)](https://twitter.com/horia_c_nuta)
+[![Twitter Follow](https://img.shields.io/twitter/follow/horia_c_nuta?color=1DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?ref_src=twsrc%5Etfw&region=follow_link&screen_name=horia_c_nuta&tw_p=followbutton)
+
+
 
 ## I am currently a 3rd year Student of Computer Science
 
@@ -21,3 +23,4 @@
 [twitter](https://twitter.com/horia_c_nuta)
 [facebook](https://www.facebook.com/horia.c.nuta/)
 [fiverr](https://www.fiverr.com/horia_c_nuta?up_rollout=true)
+[twitter follow](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F%3FbuttonType%3DFollowButton%26dnt%3D1%26query%3Dhttps%253A%252F%252Ftwitter.com%252Fhoria_c_nuta%26widget%3DButton&ref_src=twsrc%5Etfw&region=follow_link&screen_name=horia_c_nuta&tw_p=followbutton)
