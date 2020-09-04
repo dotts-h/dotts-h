@@ -22,15 +22,7 @@
 
 <br />
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Horia's github stats](https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### My [Learn Enough](https://www.learnenough.com/) Badges and [Certificates](https://www.learnenough.com/certificates/horia_c_nuta)
 
@@ -38,6 +30,19 @@
 
 <br />
 <br />
+
+---
+
+<details>
+    <summary>:zap: Top Languages</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+---
+
+[![Horia's github stats](https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 [linkedin]: https://www.linkedin.com/in/horia-c-nuta/
 [hackerrank]: https://www.hackerrank.com/doTTs?hr_r=1
