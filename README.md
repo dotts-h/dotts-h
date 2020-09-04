@@ -1,5 +1,6 @@
 ## Hey, I am Horia C. Nuţă
 
+[![Twitter Chat](https://img.shields.io/twitter/url?color=1DA1F2&label=chat%40horia_c_nuta&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Ffollow%2Fhttps%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D1296850037297881091%3Fcolor%3D1DA1F2%26label%3D%2540horia_c_nuta%26logo%3DTwitter%26style%3Dfor-the-badge)][twitter chat]
 [![Twitter Follow](https://img.shields.io/twitter/follow/horia_c_nuta?color=1DA1F2&style=for-the-badge)][twitter follow]
 
 
@@ -23,11 +24,11 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact&count_private)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Horia's github stats](https://github-readme-stats-git-master.dotts-h.vercel.app//api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Horia's github stats](https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -45,3 +46,4 @@
 [fiverr]: https://www.fiverr.com/horia_c_nuta?up_rollout=true
 [goodreads]: https://www.goodreads.com/user/show/63355295-horia-nu
 [twitter follow]: https://twitter.com/intent/follow?ref_src=twsrc%5Etfw&region=follow_link&screen_name=horia_c_nuta&tw_p=followbutton
+[twitter chat]: https://twitter.com/messages/compose?recipient_id=1296850037297881091
