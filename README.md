@@ -50,12 +50,12 @@
 <a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
 <br />
-
+https://github-readme-stats.dotts-h.vercel.app/
 ---
 
 <details>
     <summary>:zap: Top Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme.stats.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 <br />
 <details>
