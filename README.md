@@ -41,6 +41,8 @@
 
 <!-- [<img allign="left" alt="foo" width="26px" src="bar" />] -->
 
+<br />
+
 ---
 
 ### My [Learn Enough](https://www.learnenough.com/) Badges and [Certificates](https://www.learnenough.com/certificates/horia_c_nuta)
