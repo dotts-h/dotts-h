@@ -50,14 +50,13 @@
 <a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
 <br />
-<br />
 
 ---
 
 <details>
     <summary>:zap: GitHub Language Stats</summary>
     
-    <img align="left" alt="Language Stats" src="https://github-readme-stats-git-master.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
+   <img align="left" alt="Language Stats" src="https://github-readme-stats-git-master.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
 
 </details>
 
