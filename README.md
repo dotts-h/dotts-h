@@ -22,13 +22,12 @@
 
 <br />
 
-
+---
 
 ### My [Learn Enough](https://www.learnenough.com/) Badges and [Certificates](https://www.learnenough.com/certificates/horia_c_nuta)
 
 <a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
-<br />
 <br />
 
 ---
@@ -38,11 +37,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
----
-
+<details>
+    <summary>:zap: GitHub Stats</summary>
 [![Horia's github stats](https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
----
 
 [linkedin]: https://www.linkedin.com/in/horia-c-nuta/
 [hackerrank]: https://www.hackerrank.com/doTTs?hr_r=1
