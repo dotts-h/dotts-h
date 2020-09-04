@@ -21,7 +21,9 @@
 
 <br/>
 
-[![Horia's github stats](https://github-readme-stats.vercel.app/api?username=dotts-h)](https://github.com/anuraghazra/github-readme-stats)
+[![Horia's github stats](https://github-readme-stats.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 
 ### My [Learn Enough](https://www.learnenough.com/) Badges and [Certificates](https://www.learnenough.com/certificates/horia_c_nuta)
 
