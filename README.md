@@ -1,4 +1,4 @@
-## Hey, I am Horia C. Nuţă
+## Hey, I am Horia C. Nuţă, aspiring Programmer.
 
 [![Twitter Chat](https://img.shields.io/twitter/url?color=1DA1F2&label=chat%40horia_c_nuta&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Ffollow%2Fhttps%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D1296850037297881091%3Fcolor%3D1DA1F2%26label%3D%2540horia_c_nuta%26logo%3DTwitter%26style%3Dfor-the-badge)][twitter chat]
 [![Twitter Follow](https://img.shields.io/twitter/follow/horia_c_nuta?color=1DA1F2&style=for-the-badge)][twitter follow]
@@ -21,6 +21,23 @@
 [<img align="left" alt="goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/goodreads.svg" />][goodreads]
 
 <br />
+
+### Languages and Tools:
+
+[<img allign="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="C Language" width="26px" src="https://simpleicons.org/icons/c.svg" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
+[<img allign="left" alt="foo" width="26px" src="bar" />]
 
 ---
 
