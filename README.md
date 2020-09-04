@@ -23,7 +23,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact&count_private)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
