@@ -56,7 +56,7 @@
 <details>
     <summary>:zap: GitHub Language Stats</summary>
     
-   <img align="left" alt="Language Stats" src="https://github-readme-stats-git-master.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
+   [<img align="left" alt="Language Stats" src="https://github-readme-stats-git-master.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
