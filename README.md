@@ -54,6 +54,11 @@
 ---
 
 <details>
+    <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+
+<details>
     <summary>:zap: Top Languages</summary>
     <img alt="Top Langs" src="https://github-readme-stats.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
 </details>
