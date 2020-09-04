@@ -52,15 +52,15 @@
 <br />
 https://github-readme-stats.dotts-h.vercel.app/
 ---
-<div>
+
 <details>
     <summary>:zap: Top Languages</summary>
-    <img alt="Top Langs" src="https://github-readme-stats.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact">
+    <img alt="Top Langs" src="https://github-readme-stats.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
 </details>
-</div>
+
 <details>
     <summary>:zap: GitHub Stats</summary>
-[![Horia's github stats](https://github-readme-stats.dotts-h.vercel.app/api?username=dotts-h&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    <img alt="GitHub Stats" src="https://github-readme-stats.dotts-h.vercel.app/api?username=dotts-h&count_private=true&show_icons=true" />
 </details>
 
 
