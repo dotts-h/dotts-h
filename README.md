@@ -60,6 +60,12 @@
 
 </details>
 
+<details>
+    <summary>:zap: GitHub Stats</summary>
+    
+   <img align="left" alt="Horia's GitHub Stats" src="https://github-readme-stats-git-master.dotts-h.vercel.app/api?username=dotts-h&count_private=true&show_icons=true" />
+    
+</details>
 
 <!-- Contact Links -->
 
