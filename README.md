@@ -1,7 +1,7 @@
 ## Hey, I am Horia C. Nuţă, aspiring Programmer.
 
 [![Twitter Chat](https://img.shields.io/twitter/url?color=1DA1F2&label=chat%40horia_c_nuta&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Ffollow%2Fhttps%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D1296850037297881091%3Fcolor%3D1DA1F2%26label%3D%2540horia_c_nuta%26logo%3DTwitter%26style%3Dfor-the-badge)][twitter chat]
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/horia_c_nuta?color=1DA1F2&style=for-the-badge)][twitter follow]
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/horia_c_nuta?color=1DA1F2&style=for-the-badge)][twitter follow]-->
 
 
 ## I am currently a 3rd year Student of Computer Science
@@ -18,7 +18,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/hackerrank.svg" />][hackerrank]
 <!--[<img align="left" alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/fiverr.svg" />][fiverr]
-[<img align="left" alt="goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/goodreads.svg" />][goodreads]
+[<img align="left" alt="goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/goodreads.svg" />][goodreads]-->
 
 <br />
 
