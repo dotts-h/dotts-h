@@ -45,15 +45,6 @@
 
 ---
 
-<details>
-    <summary>:zap: Top Languages</summary>
-    <img alt="Top Langs" src="https://github-readme-stats.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
-</details>
-
-<details>
-    <summary>:zap: GitHub Stats</summary>
-    <img alt="GitHub Stats" src="https://github-readme-stats.dotts-h.vercel.app/api?username=dotts-h&count_private=true&show_icons=true" />
-</details>
 
 
 [linkedin]: https://www.linkedin.com/in/horia-c-nuta/
