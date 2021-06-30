@@ -40,38 +40,3 @@
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][foobar]
 
 <!-- [<img allign="left" alt="foo" width="26px" src="bar" />] -->
-
-<br />
-
----
-
-<details>
-    <summary>:zap: Top Languages</summary>
-    <img alt="Top Langs" src="https://github-readme-stats.dotts-h.vercel.app/api/top-langs/?username=dotts-h&layout=compact" />
-</details>
-
-<details>
-    <summary>:zap: GitHub Stats</summary>
-    <img alt="GitHub Stats" src="https://github-readme-stats.dotts-h.vercel.app/api?username=dotts-h&count_private=true&show_icons=true" />
-</details>
-
-
-[linkedin]: https://www.linkedin.com/in/horia-c-nuta/
-[hackerrank]: https://www.hackerrank.com/doTTs?hr_r=1
-[twitter]: https://twitter.com/horia_c_nuta
-[facebook]: https://www.facebook.com/horia.c.nuta/
-[fiverr]: https://www.fiverr.com/horia_c_nuta?up_rollout=true
-[goodreads]: https://www.goodreads.com/user/show/63355295-horia-nu
-[twitter follow]: https://twitter.com/intent/follow?ref_src=twsrc%5Etfw&region=follow_link&screen_name=horia_c_nuta&tw_p=followbutton
-[twitter chat]: https://twitter.com/messages/compose?recipient_id=1296850037297881091
-
-
-<!-- Languages and Tools links: -->
-
-[visualstudiocode]: https://code.visualstudio.com/
-[vim]: https://www.vim.org/
-[C language]: https://en.wikipedia.org/wiki/C_(programming_language)]
-[C++]: https://en.wikipedia.org/wiki/C%2B%2B
-[C#]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[java]: https://www.java.com/en/
-[foobar]: http://example.com/
