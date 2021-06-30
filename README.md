@@ -4,7 +4,7 @@
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/horia_c_nuta?color=1DA1F2&style=for-the-badge)][twitter follow]-->
 
 
-## I am currently a 3rd year Student of Computer Science
+## Computer Science Graduate
 
 - :school: at [University of Medicine, Pharmacy, Science and Technology of Tîrgu Mureş](https://www.umfst.ro/home.html)
 - :pencil: I'm currently learning everything!
@@ -42,12 +42,6 @@
 <!-- [<img allign="left" alt="foo" width="26px" src="bar" />] -->
 
 <br />
-
----
-
-### My [Learn Enough](https://www.learnenough.com/) Badges and [Certificates](https://www.learnenough.com/certificates/horia_c_nuta)
-
-<a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/horia_c_nuta"><img src="https://www.learnenough.com/certificates/horia_c_nuta/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a>
 
 ---
 
