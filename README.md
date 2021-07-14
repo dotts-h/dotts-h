@@ -7,8 +7,6 @@
 ## Computer Science Graduate
 
 - :school: at [University of Medicine, Pharmacy, Science and Technology of Tîrgu Mureş](https://www.umfst.ro/home.html)
-- :pencil: I'm currently learning everything!
-- :computer: 2020 Goals: Learn and start contributing to Open Source Projects
 
 
 ### Check me out:
