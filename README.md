@@ -9,7 +9,7 @@ I am a recently graduate of Computer Science looking forward to jumping into thi
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dotts-h&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact" /> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotts-h&layout=compact&theme=radical" /> 
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
