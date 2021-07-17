@@ -33,6 +33,8 @@ I am looking for work / projects.
 <a href="mailto:horia.c.nuta@gmail.com?subject=Hello"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="mailto:n.horia.c@hotmail.com?subject=Hello"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
+---
+
 ## Languages
 
 <img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
