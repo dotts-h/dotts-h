@@ -13,6 +13,17 @@ I am a recently graduate of Computer Science looking forward to jumping into thi
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+---
+
+## Curently working on
+
+- Books:
+  - [Job Ready Java](https://www.wiley.com/en-us/Job+Ready+Java-p-9781119775645)
+    - Progress and exercises at [repo](https://github.com/dotts-h/book__job_ready_java)
+  - [Effective C](https://www.amazon.com/Effective-Introduction-Professional-Robert-Seacord/dp/1718501048)
+- Coursera:
+  - [Object Oriented Java Programming: Data Structures and Beyond Specialization](https://www.coursera.org/specializations/java-object-oriented)
+  - [Coding for Everyone: C and C++ Specialization](https://www.coursera.org/specializations/coding-for-everyone?)
 
 ---
 
@@ -133,6 +144,22 @@ I am a recently graduate of Computer Science looking forward to jumping into thi
     <li>Sign In / Out with Session tracking</li>
     <li>MySQL Database</li>
     <li>CRUD API</li>
+  </ul>
+</details>
+
+## Coursera Acomplishments
+
+<details>
+  <summary>Introduction to HTML5</summary>
+  <br>
+  <p>Grade achieved - 89.66%</p>
+  <ul>
+    <li>Name: Introduction to HTML5</li>
+    <li>Issuing Organization: Coursera</li>
+    <li>Issue Date: April 2021</li>
+    <li>Expiration Date: <i>This certification does not expire</i></li>
+    <li>Credential: PSRPLFZ2XZRV</li>
+    <li>Credential URL: https://www.coursera.org/account/accomplishments/certificate/PSRPLFZ2XZRV</li>
   </ul>
 </details>
 
