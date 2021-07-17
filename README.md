@@ -1,6 +1,7 @@
 # Hello, I am Horia!
 
 I am a recently graduate of Computer Science looking forward to jumping into this wonderful world of coding.
+I am looking for work / projects.
 
 <a href="https://www.hackerrank.com/doTTs"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://www.hackerearth.com/@horia.c.nuta@"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
@@ -41,10 +42,11 @@ I am a recently graduate of Computer Science looking forward to jumping into thi
 <img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="left" alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img align="left" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <br />
 
-## Tehnologies
+## Tech Stacks
 
 - IDEs
 <a href=""><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
