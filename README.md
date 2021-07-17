@@ -64,10 +64,6 @@ I am a recently graduate of Computer Science looking forward to jumping into thi
 
 ---
 
-<p align="center"><img width="auto" src="http://github-readme-streak-stats.herokuapp.com?user=dotts-h&theme=tokyonight" /></p>
-
----
-
 ## Projects
 
 ### School Projects
@@ -139,3 +135,11 @@ I am a recently graduate of Computer Science looking forward to jumping into thi
     <li>CRUD API</li>
   </ul>
 </details>
+
+---
+
+<p align="center"><img width="auto" src="http://github-readme-streak-stats.herokuapp.com?user=dotts-h&theme=tokyonight" /></p>
+
+---
+
+
