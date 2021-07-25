@@ -154,7 +154,7 @@ I am looking for work / projects.
 ## Coursera Acomplishments
 
 <details>
-  <summary><a href=""><img src="https://badgen.net/badge/C/C%20for%20Everyone:%20Programming%20Fundamentals/blue"/></a></summary>
+  <summary><a href="https://www.coursera.org/learn/c-for-everyone"><img src="https://img.shields.io/badge/C-C_for_Everyone%3A_Programming_Fundamentals-blue?style=for-the-badge"/></a></summary>
   <br>
   <p>Grade Achieved: 95.90%</p>
   <ul>
