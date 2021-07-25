@@ -151,7 +151,7 @@ I am looking for work / projects.
   </ul>
 </details>
 
-## Coursera Acomplishments
+## Coursera Accomplishments
 
 <details>
   <summary><a href="https://www.coursera.org/learn/c-for-everyone"><img src="https://img.shields.io/badge/C-C_for_Everyone%3A_Programming_Fundamentals-blue?style=for-the-badge"/></a></summary>
@@ -168,7 +168,7 @@ I am looking for work / projects.
 </details>
 
 <details>
-  <summary>Introduction to HTML5</summary>
+  <summary><a href="https://www.coursera.org/learn/html"><img src="https://img.shields.io/badge/HTML5-Introduction_to_HTML5-blue?style=for-the-badge"/></a></summary>
   <br>
   <p>Grade achieved - 89.66%</p>
   <ul>
