@@ -154,6 +154,20 @@ I am looking for work / projects.
 ## Coursera Acomplishments
 
 <details>
+  <summary>C for Everyone: Programming Fundamentals</summary>
+  <br>
+  <p>Grade Achieved: 95.90%</p>
+  <ul>
+    <li>Name: C for Everyone: Programming Fundamentals</li>
+    <li>Issuing Organization: Coursera</li>
+    <li>Issue Date: July 2021</li>
+    <li>Expiration Date: <i>This certification does not expire</i></li>
+    <li>Credential: QRJRZGWK8YKB</li>
+    <li>Credential URL: https://www.coursera.org/account/accomplishments/certificate/QRJRZGWK8YKB</li>
+  </ul>
+</details>
+
+<details>
   <summary>Introduction to HTML5</summary>
   <br>
   <p>Grade achieved - 89.66%</p>
