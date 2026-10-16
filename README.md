@@ -14,7 +14,7 @@ Agent tooling · evals (grounding, regression) · Playwright · Electron / OpenF
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,playwright,electron,docker,githubactions,linux,postgres,cursor&perline=12" alt="Python, TypeScript, JavaScript, Java, C#, Playwright, Electron, Docker, GitHub Actions, Linux, PostgreSQL, Cursor" />
+<img height="48" src="https://skillicons.dev/icons?i=py,ts,js,java,cs,electron,docker,githubactions,linux,postgres&perline=10" alt="Python, TypeScript, JavaScript, Java, C#, Electron, Docker, GitHub Actions, Linux, PostgreSQL" /> <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" /> <img height="48" src="https://cdn.simpleicons.org/cursor" alt="Cursor" title="Cursor" />
 
 ## Activity
 
